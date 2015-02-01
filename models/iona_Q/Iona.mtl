@@ -1,0 +1,208 @@
+newmtl m0
+map_Kd texture\common_Q\m0.bmp
+Ka 0.8 0.5744 0.4232
+Kd 0.8 0.5744 0.4232
+Ks 0 0 0
+Ns 21
+d 0.999
+
+newmtl m1
+map_Kd texture\common_Q\m1.bmp
+Ka 0.78 0.29328 0.25974
+Kd 0.78 0.29328 0.25974
+Ks 0.62 0.62 0.62
+Ns 18
+d 0.999
+
+newmtl m2
+map_Kd texture\common_Q\m2.bmp
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 5
+d 0.999
+
+newmtl m3
+map_Kd texture\common_Q\m3.bmp
+Ka 0.8 0.3736 0.2984
+Kd 0.8 0.3736 0.2984
+Ks 0 0 0
+Ns 0
+d 0.999
+
+newmtl m4
+map_Kd texture\common_Q\m0.bmp
+Ka 0.8 0.5744 0.4232
+Kd 0.8 0.5744 0.4232
+Ks 0 0 0
+Ns 21
+d 0.999
+
+newmtl m5
+map_Kd texture\common_Q\m0.bmp
+Ka 0.8 0.5744 0.4232
+Kd 0.8 0.5744 0.4232
+Ks 0 0 0
+Ns 21
+d 0.999
+
+newmtl m6
+map_Kd texture\iona_Q\m6.bmp
+Ka 0.1647059 0.1647059 0.1647059
+Kd 0.1490196 0.1490196 0.1490196
+Ks 0 0 0
+Ns 21
+d 1
+
+newmtl m7
+map_Kd texture\iona_Q\m6.bmp
+Ka 0.1647059 0.1647059 0.1647059
+Kd 0.1490196 0.1490196 0.1490196
+Ks 0 0 0
+Ns 21
+d 1
+
+newmtl m8
+map_Kd texture\common_Q\m0.bmp
+Ka 0.8 0.5744 0.4232
+Kd 0.8 0.5744 0.4232
+Ks 0 0 0
+Ns 21
+d 0.999
+
+newmtl m9
+map_Kd texture\iona_Q\e.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 21
+d 0.999
+
+newmtl m10
+map_Kd texture\iona_Q\e.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 21
+d 0.999
+
+newmtl m11
+map_Kd texture\iona_Q\m11.bmp
+Ka 0.4509804 0.4823529 0.6666667
+Kd 0.6392157 0.7294118 0.8941177
+Ks 0.11 0.11 0.11
+Ns 21
+d 1
+
+newmtl m12
+map_Kd texture\iona_Q\m6.bmp
+Ka 0.1647059 0.1647059 0.1647059
+Kd 0.1490196 0.1490196 0.1490196
+Ks 0 0 0
+Ns 21
+d 1
+
+newmtl m13
+map_Kd texture\iona_Q\b.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 13
+d 1
+
+newmtl m14
+map_Kd texture\iona_Q\b.bmp
+Ka 0.2862745 0.2862745 0.2862745
+Kd 0.5176471 0.5176471 0.5176471
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m15
+map_Kd texture\iona_Q\m11.bmp
+Ka 0.4509804 0.4823529 0.6666667
+Kd 0.6392157 0.7294118 0.8941177
+Ks 0.11 0.11 0.11
+Ns 13
+d 1
+
+newmtl m16
+map_Kd texture\iona_Q\m11.bmp
+Ka 0.4509804 0.4823529 0.6666667
+Kd 0.6392157 0.7294118 0.8941177
+Ks 0.11 0.11 0.11
+Ns 13
+d 1
+
+newmtl m17
+map_Kd texture\iona_Q\b.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 0.999
+
+newmtl m18
+map_Kd texture\iona_Q\i.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 13
+d 1
+
+newmtl m19
+map_Kd texture\iona_Q\m19.bmp
+Ka 0.7529412 0.7529412 0.7529412
+Kd 0.9098039 0.9098039 0.9098039
+Ks 0.11 0.11 0.11
+Ns 13
+d 0.999
+
+newmtl m20
+map_Kd texture\iona_Q\a.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 0.999
+
+newmtl m21
+map_Kd texture\iona_Q\h.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 0.999
+
+newmtl m22
+map_Kd texture\iona_Q\m22.bmp
+Ka 0.4156863 0.2078431 0.254902
+Kd 0.6196079 0.2627451 0.3411765
+Ks 0.11 0.11 0.11
+Ns 13
+d 0.999
+
+newmtl m23
+map_Kd texture\iona_Q\f.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m24
+map_Kd texture\iona_Q\b.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m25
+map_Kd texture\iona_Q\g.bmp
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
+

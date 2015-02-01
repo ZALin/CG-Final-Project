@@ -1,0 +1,176 @@
+newmtl m0
+map_Kd texture\iona_n\m0.bmp
+Ka 0.13622 0.13818 0.14406
+Kd 0.22796 0.23124 0.24108
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m1
+map_Kd texture\iona_n\Uniform_base.bmp
+Ka 0.3 0.3 0.3
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m2
+map_Kd texture\iona_n\m2.bmp
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m3
+map_Kd texture\iona_n\Uniform_base.bmp
+Ka 0.3 0.3 0.3
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m4
+map_Kd texture\iona_n\m2.bmp
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m5
+map_Kd texture\iona_n\m5.bmp
+Ka 0.4745 0.4745 0.4745
+Kd 0.63583 0.63583 0.63583
+Ks 0.33 0.33 0.33
+Ns 19
+d 1
+
+newmtl m6
+map_Kd texture\iona_n\m6.bmp
+Ka 0.11726 0.11726 0.11726
+Kd 0.17732 0.17732 0.17732
+Ks 0.45 0.45 0.45
+Ns 63
+d 1
+
+newmtl m7
+map_Kd texture\iona_n\m7.bmp
+Ka 0.38295 0.42705 0.39015
+Kd 0.39997 0.44603 0.40749
+Ks 0 0 0
+Ns 2
+d 1
+
+newmtl m8
+map_Kd texture\iona_n\Uniform_base.bmp
+Ka 0 0 0
+Kd 0.5930399 0.5930399 0.5930399
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m9
+map_Kd texture\iona_n\logo.bmp
+Ka 0.6 0.6 0.6
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m10
+map_Kd texture\iona_n\m10.bmp
+Ka 0.2589 0.1023 0.1176
+Kd 0.6904 0.2728 0.3136
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m11
+map_Kd texture\iona_n\body.bmp
+Ka 0.55 0.53295 0.53295
+Kd 0.7 0.6783 0.6783
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m12
+map_Kd texture\iona_n\m12.bmp
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m13
+map_Kd texture\iona_n\m13.bmp
+Ka 0.3705 0.3665 0.4275
+Kd 0.60762 0.60106 0.7011
+Ks 0.14 0.14 0.14
+Ns 6
+d 1
+
+newmtl m14
+map_Kd texture\iona_n\m14.bmp
+Ka 0.01323 0.01323 0.01323
+Kd 0.02214 0.02214 0.02214
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m15
+map_Kd texture\iona_n\m15.bmp
+Ka 0.54 0.31536 0.34722
+Kd 0.29 0.16936 0.18647
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m16
+map_Kd texture\iona_n\m16.bmp
+Ka 0.54 0.42768 0.42768
+Kd 0.48 0.38016 0.38016
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m17
+map_Kd texture\iona_n\body.bmp
+Ka 0.5 0.4845 0.4845
+Kd 0.8 0.7752 0.7752
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m18
+map_Kd texture\iona_n\eyes_00.bmp
+Ka 0.55 0.55 0.55
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m19
+map_Kd texture\iona_n\hohosome.bmp
+Ka 0.6901961 0.6901961 0.6901961
+Kd 0.6666667 0.6666667 0.6666667
+Ks 0 0 0
+Ns 0
+d 0.2
+
+newmtl m20
+map_Kd texture\iona_n\hair.bmp
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+
+newmtl m21
+map_Kd texture\iona_n\hair.bmp
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+d 1
+

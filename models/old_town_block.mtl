@@ -1,0 +1,161 @@
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dvc1.bmp
+
+newmtl default_sidewalk_1
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/na1.bmp
+
+newmtl default_house_basemult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/df2.bmp
+
+newmtl default_house_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dr1.bmp
+
+newmtl default_chimney_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/ch2.bmp
+
+newmtl default_windows_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/wd1.bmp
+
+newmtl default_roof_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/rf2b.bmp
+
+newmtl default_extras_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/w5.bmp
+
+newmtl default_wall_front_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/wf1c.bmp
+
+newmtl default_wall_side_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/wm3d.bmp
+
+newmtl default_light_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dlim.bmp
+
+newmtl default_lamp_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.156863 0.14902 0.176471
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dlm.bmp
+
+newmtl default_transformer
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dew.bmp
+
+
+newmtl default_transformer_transformer
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dvc1.bmp
+
+newmtl default_electric_pole_mult
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.286275 0.282353 0.254902
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dk1.bmp
+
+newmtl default_electrical_wire
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Km 0
+map_Kd texture/Maps/dew.bmp
+
