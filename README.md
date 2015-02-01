@@ -1,6 +1,7 @@
 # CG-Final-Project
 NTNU CSIE - Computer Graphics - Final Project using OpenGL
-There are a part of "glm" have been modified.
+
+There are lots part of "glm" have been modified.
 
 ## Install
 Need install glew and glut
